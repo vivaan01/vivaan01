@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VIVAAN SHARMA</h1>
+<h1 align="center">Hi 👋, I'm VIVAAN </h1>
 <h3 align="center">I'm a passionate Full Stack Developer specializing in Java backend development with React and Spring frameworks. I love contributing to open source projects and collaborating with the community to build innovative and efficient solutions. With a strong foundation in both front-end and back-end technologies, I strive to create seamless and user-friendly applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivaan01&label=Profile%20views&color=0e75b6&style=flat" alt="vivaan01" /> </p>
