@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm VIVAAN S</h1>
-<h3 align="center">I'm a passionate Full Stack Developer specializing in Java backend development with React and Spring frameworks. I love contributing to open source projects and collaborating with the community to build innovative and efficient solutions. With a strong foundation in both front-end and back-end technologies, I strive to create seamless and user-friendly applications.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer specializing in Java backend development with React.JS and Spring frameworks. I love contributing to open source projects and collaborating with the community to build innovative and efficient solutions. With a strong foundation in both front-end and back-end technologies, I strive to create seamless and user-friendly applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivaan01&label=Profile%20views&color=0e75b6&style=flat" alt="vivaan01" /> </p>
 
 - 🔭 I’m currently working on **Waste-Management-App**
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Spring Framework** **React** 
 
 - 👨‍💻 All of my projects are available at [https://on.contra.com/fhdMQQ](https://on.contra.com/fhdMQQ)
 
-- 💬 Ask me about **JAVA,Springboot,DBMS**
+- 💬 Ask me about **JAVA,Springboot,DBMS,React,Javascript,Tailwind CSS**
 
 - 📫 How to reach me **vivaans083@gmail.com**
 
