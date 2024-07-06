@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on **Waste-Management-App**
 
-- 🌱 I’m currently learning **Spring Framework** **React** 
+- 🌱 I’m currently learning **MERN STACK**  **** 
 
 - 👨‍💻 All of my projects are available at [https://on.contra.com/fhdMQQ](https://on.contra.com/fhdMQQ)
 
-- 💬 Ask me about **JAVA,Springboot,DBMS,React,Javascript,Tailwind CSS**
+- 💬 Ask me about **MERN STACK,JAVA,Springboot,DBMS,React,Javascript,Tailwind CSS**
 
 - 📫 How to reach me **vivaans083@gmail.com**
 
 - 📄 Know about my experiences [https://on.contra.com/fhdMQQ](https://on.contra.com/fhdMQQ)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect and Build Cool Projects:</h3>
 <p align="left">
 <a href="https://twitter.com/mr_vivaan007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_vivaan007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vivaan-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivaan-sharma" height="30" width="40" /></a>
