@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Waste-Management-App**
 
-- 🌱 I’m currently learning **MERN STACK**  **** 
+- 🌱 I’m currently learning **MERN STACK**  
 
 - 👨‍💻 All of my projects are available at [https://on.contra.com/fhdMQQ](https://on.contra.com/fhdMQQ)
 
