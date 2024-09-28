@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIVAAN SHARMA</h1>
-<h3 align="center">I'm a passionate Machine Learning and Full Stack Developer specializing in MERN STACK . I love building innovtive products and also love to contribute in open source projects .I love to collaborate with the community to build innovative and efficient solutions. With a strong foundation in Machine Learning along with both front-end and back-end technologies, I strive to create seamless and user-friendly applications.</h3>
+<h3 align="center">
+  As a passionate Machine Learning and Full Stack Developer with a focus on the MERN stack, I thrive on turning innovative ideas into reality. Whether I'm building cutting-edge applications or contributing to open-source projects, I’m driven by a love for collaboration and problem-solving. With a strong grounding in both front-end and back-end technologies, combined with a deep understanding of machine learning, my goal is to craft intuitive, seamless user experiences that not only solve problems but push the boundaries of what's possible. Together, let's innovate and create impactful solutions!
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivaan01&label=Profile%20views&color=0e75b6&style=flat" alt="vivaan01" /> </p>
 
