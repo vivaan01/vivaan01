@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://on.contra.com/fhdMQQ](https://on.contra.com/fhdMQQ)
 
-- 💬 Ask me about **MERN STACK,JAVA,Springboot,DBMS,React,Javascript,Tailwind CSS**
+- 💬 Ask me about **MERN STACK and Machine Learning**
 
 - 📫 How to reach me **vivaancse100@gmail.com**
 
