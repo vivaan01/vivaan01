@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivaan01&label=Profile%20views&color=0e75b6&style=flat" alt="vivaan01" /> </p>
 
-- 🔭 I’m currently working on **Waste-Management-App**
+- 🔭 I’m currently working on a ML-Model **IncentiFy: Ditch the Middleman **
 
-- 🌱 I’m currently learning **MERN STACK**  
+- 🌱 I’m currently learning **Data Science**  
 
 - 👨‍💻 All of my projects are available at [https://on.contra.com/fhdMQQ](https://on.contra.com/fhdMQQ)
 
 - 💬 Ask me about **MERN STACK,JAVA,Springboot,DBMS,React,Javascript,Tailwind CSS**
 
-- 📫 How to reach me **vivaans083@gmail.com**
+- 📫 How to reach me **vivaancse100@gmail.com**
 
 - 📄 Know about my experiences [https://on.contra.com/fhdMQQ](https://on.contra.com/fhdMQQ)
 
