@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivaan01&show_icons=true&locale=en" alt="vivaan01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivaan01&" alt="vivaan01" /></p>
+[![An image of @vivaan01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivaan01)](https://holopin.io/@vivaan01)
