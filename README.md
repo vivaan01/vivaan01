@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VIVAAN </h1>
 <h3 align="center">
-  As a passionate Machine Learning and Full Stack Developer with a focus on the MERN stack, I thrive on turning innovative ideas into reality. Together, let's innovate and create impactful solutions!
+ As a dedicated MERN Stack Developer with a unique combination of expertise in Machine Learning, I’m passionate about transforming innovative ideas into tangible, impactful solutions. My focus on the MERN stack enables me to craft seamless, full-stack applications, while my knowledge in Machine Learning empowers me to create smarter, more intuitive user experiences. Let’s join forces to innovate and bring meaningful projects to life!
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivaan01&label=Profile%20views&color=0e75b6&style=flat" alt="vivaan01" /> </p>
