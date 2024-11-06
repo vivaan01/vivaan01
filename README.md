@@ -1,4 +1,4 @@
-<h1 align="center">Namaste, I'm Vivaan </h1>
+<h1 align="center">𝒩𝒶𝓂𝒶𝓈𝓉ℯ, 𝐼'𝓂 𝒱𝒾𝓋𝒶𝒶𝓃 </h1>
 <h3 align="center">
  As a dedicated MERN Stack Developer with a unique combination of expertise in Machine Learning, I’m passionate about transforming innovative ideas into tangible, impactful solutions. My focus on the MERN stack enables me to craft seamless, full-stack applications, while my knowledge in Machine Learning empowers me to create smarter, more intuitive user experiences. Let’s join forces to innovate and bring meaningful projects to life!
 </h3>
