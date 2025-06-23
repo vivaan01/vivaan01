@@ -1,17 +1,14 @@
 <h1 align="center">𝓝𝓪𝓶𝓪𝓼𝓽𝓮, 𝙸'𝚖 𝚅𝚒𝚟𝚊𝚊𝚗</h1>
 <h3 align="center">
- As a dedicated Full Stack Developer with a unique combination of expertise in Machine Learning, I’m passionate about transforming innovative ideas into tangible, impactful solutions. My focus on the MERN stack enables me to craft seamless, full-stack applications, while my knowledge in Machine Learning empowers me to create smarter, more intuitive user experiences. Let’s join forces to innovate and bring meaningful projects to life!
+I CAN BUILD ANYTHING, FROM IDEA TO MARKETING. Let’s join forces to innovate and bring meaningful projects to life!
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivaan01&label=Profile%20views&color=0e75b6&style=flat" alt="vivaan01" /> </p>
 
-- 🔭 I’m currently working on a ML-Model **IncentiFy: Ditch the Middleman **
+- 🔭 I’m currently working on GEN-AI Project **DeliveryAI**
 
 
-
-- 💬 Ask me about **MERN STACK and Machine Learning**
-
-- 📫 How to reach me **vivaancse100@gmail.com**
+- 📫 How to reach me **vivaans083@gmail.com**
 
 - 📄 Know about my experiences [https://on.contra.com/fhdMQQ](https://on.contra.com/fhdMQQ)
 
